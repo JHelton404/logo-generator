@@ -23,7 +23,7 @@ Logo will be printed in the Assets folder under shape.svg
 
 Open in the browser in order to see the logo!
 
-Video Guide: 
+Video Guide: https://youtu.be/4TuPuaKBzq8
 
 Example of a generated logo:
 
