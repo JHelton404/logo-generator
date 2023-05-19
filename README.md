@@ -25,3 +25,8 @@ Open in the browser in order to see the logo!
 
 Video Guide: 
 
+Example of a generated logo:
+
+![image](https://github.com/JHelton404/logo-generator/assets/127990574/3b2809b7-8ae3-4942-a348-0e21fd0d73c3)
+
+
